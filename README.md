@@ -42,6 +42,7 @@ Developer
 Licence
 -------
 [GNU General Public License, version 3 (GPLv3)](http://opensource.org/licenses/gpl-3.0)
+
 [License info about the E-Mail Templates can be found here](https://github.com/riconeitzel/German_LocalePack_de_DE)
 
 Copyright
