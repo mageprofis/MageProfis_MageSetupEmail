@@ -1,6 +1,6 @@
 <?php
 
-class MageSetup_MageSetupEmail_Model_Core_Translate
+class MageProfis_MageSetupEmail_Model_Core_Translate
 extends Mage_Core_Model_Translate
 {
     const LOCALE_FOLDER = 'magesetupemail';
