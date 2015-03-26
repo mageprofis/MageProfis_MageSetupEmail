@@ -29,7 +29,7 @@ extends Mage_Core_Model_Translate
         
         // use from cache
         $filePath = $this->_getTemplateCache($filePath);
-        if($this->_FileExists($filePath))
+        if($filePath && $this->_FileExists($filePath))
         {
             return $this->_readTemplateFile($filePath);
         }
