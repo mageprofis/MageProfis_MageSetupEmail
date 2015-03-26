@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <MageProfis_MageSetupEmail>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+                <FireGento_MageSetup />
+                <German_LocalePackDe />
+            </depends>
+        </MageProfis_MageSetupEmail>
+    </modules>
+</config>

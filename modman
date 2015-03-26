@@ -1,0 +1,3 @@
+src/app/code/community/MageProfis/MageSetupEmail                       app/code/community/MageProfis/MageSetupEmail
+src/app/etc/modules/MageProfis_MageSetupEmail.xml                      app/etc/modules/MageProfis_MageSetupEmail.xml
+src/app/locale/de_DE/template/magesetupemail                           app/locale/de_DE/template/magesetupemail
