@@ -21,5 +21,14 @@
                 </rewrite>
             </core>
         </models>
+        <cache>
+            <types>
+                <mycache translate="label,description" module="magesetupemail">
+                    <label>E-Mail Template Path Cache</label>
+                    <description>E-Mail Template Path Cache</description>
+                    <tags>magesetupemail</tags>
+                </mycache>
+            </types>
+        </cache>
     </global>
 </config>
